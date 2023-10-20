@@ -58,7 +58,7 @@ sb.lineplot(data = alch_high, legend = True)
 plt.ylabel('Unit Sales')
 plt.xlabel('')
 plt.xticks(rotation = 38)
-plt.title('Weekly Retail Sales (2019-2003)\n Alcohol Higher Consume')
+plt.title('Weekly Retail Sales (2019-2003)\n Alcohol Higher Consumption')
 
     '''
     The prior plots summarize the dominance of water sales over the years 
